@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RAFSH</string>
+    <string name="title_activity_login" translatable="false">LoginActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="rsh">RAF Student Helper</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="logIn">Log in</string>
+    <string name="profSub">Professor/Subject</string>
+    <string name="search">Search</string>
+    <string name="titleContent">Title/Content</string>
+    <string name="ss">School Schedules</string>
+    <string name="n">Notes</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">Add</string>
+    <string name="edit">Edit</string>
+</resources>

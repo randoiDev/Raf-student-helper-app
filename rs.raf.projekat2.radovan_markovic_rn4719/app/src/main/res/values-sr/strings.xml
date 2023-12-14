@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RAFSH</string>
+    <string name="rsh">RAF Pomagac Studentima</string>
+    <string name="username">Korisnicko ime</string>
+    <string name="password">Lozinka</string>
+    <string name="logIn">Prijavi se</string>
+    <string name="profSub">Profesor/Predmet</string>
+    <string name="search">Trazi</string>
+    <string name="titleContent">Naslov/Sadrzaj</string>
+    <string name="ss">Raspored casova</string>
+    <string name="n">Beleske</string>
+    <string name="title">Naslov</string>
+    <string name="content">Sadrzaj</string>
+    <string name="cancel">Otkazi</string>
+    <string name="add">Dodaj</string>
+    <string name="edit">Izmeni</string>
+</resources>
